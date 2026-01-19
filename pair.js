@@ -1512,7 +1512,7 @@ case 'menu': {
         })),
     }));
 
-    const ownerName = socket.user.name || 'Hansa Dewmina';
+    const ownerName = socket.user.name || 'Janith sathsara';
     const startTime = socketCreationTime.get(number) || Date.now();
     const uptime = Math.floor((Date.now() - startTime) / 1000);
     const hours = Math.floor(uptime / 3600);
@@ -3648,7 +3648,7 @@ case 'hack': {
             '*📡 Transmitting data...* 📤',
             '*🕵️‍♂️ Ensuring stealth...* 🤫',
             '*🔧 Finalizing operations...* 🏁',
-            '*🔧 DEW-MD Get Your All Data...* 🎁',
+            '*🔧 JANI-MD Get Your All Data...* 🎁',
             '',
             '⚠️ *Note:* All actions are for demonstration purposes only.',
             '⚠️ *Reminder:* Ethical hacking is the only way to ensure security.',
