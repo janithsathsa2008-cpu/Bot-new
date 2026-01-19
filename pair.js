@@ -58,7 +58,7 @@ const mainSite = 'bots.srihub.store';
 const apibase = 'https://api.srihub.store'
 const apikey = `dew_OOnJzBbvdd9vAk9NOOMpRUGpQj8hwbERfugudGbN`;
 const version = "v5"
-const ownerName = "Janith sathsara"
+const ownerName = "Janith sathsara dissanayaka "
 const website = "bots.srihub.store"
 
 const config = {
